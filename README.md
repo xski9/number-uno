@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm xski9</h1>
 <h3 align="center">A Developer from England</h3>
 
-- 🌱 I’m currently learning **C plus plus**
+- 🌱 I’m currently learning **C++**
 
 - 📄 Know about my experiences [Started coding at 10 and now 16](Started coding at 10 and now 16)
 
